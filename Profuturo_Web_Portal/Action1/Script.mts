@@ -22,3 +22,4 @@ Browser("Afore, Pensiones y Préstamos").Page("Información corporativa").Link("
 Browser("Afore, Pensiones y Préstamos").Page("Cultura corporativa -").Link("Contacto").Click @@ hightlight id_;_Browser("Afore, Pensiones y Préstamos").Page("Cultura corporativa -").Link("Contacto")_;_script infofile_;_ZIP::ssf22.xml_;_
 Browser("Afore, Pensiones y Préstamos").Page("Contacto. Solicita información").Link("Mi Registro en Profuturo").Click @@ hightlight id_;_Browser("Afore, Pensiones y Préstamos").Page("Contacto. Solicita información").Link("Mi Registro en Profuturo")_;_script infofile_;_ZIP::ssf23.xml_;_
 'Cambio 1 Cambio para demostrar actualización al script
+'Cambio 2 Prueba de actualización
